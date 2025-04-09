@@ -54,3 +54,6 @@ build/
 
 # Others
 *.DS_Store
+
+# Files .txt
+READEME_ChatMultiGeração_API-REST.txt
